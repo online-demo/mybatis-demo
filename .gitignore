@@ -27,3 +27,4 @@
 .mvn/
 mvnw
 mvnw.cmd
+src/main/.DS_Store
