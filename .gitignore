@@ -28,3 +28,4 @@
 mvnw
 mvnw.cmd
 src/main/.DS_Store
+src/main/resources/mapper/.DS_Store
